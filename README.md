@@ -9,6 +9,8 @@ This program allowing person to withdraw money form his\her account and check if
 4. check that your balance is enough.
 
 ## Example Output
+///
+java
 Enter starting balance
 300
 Enter the amount you want to withdraw(P.S: enter 0 to exit)
@@ -17,6 +19,7 @@ Withdrew: $50.0, Balance: $250.0
 enter the new amount you want to withdraw:
 0
 Goodbye!
+///
 
 
 ## Author

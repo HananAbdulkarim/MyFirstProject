@@ -27,3 +27,5 @@ Hanan Abdulkarim
 
 ## Zulaikha Y
 added step 5
+## Collaboration Acknowledgment
+This project was reviewed and edited by Zulaikha Y on GitHub

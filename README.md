@@ -7,6 +7,7 @@ This program allowing person to withdraw money form his\her account and check if
 2. Enter your balance then.
 3. Enter the amount you want to withdraw.
 4. check that your balance is enough.
+5. if you don't have enough is repeats "no Funds"
 
 ## Example Output
 ```
@@ -23,3 +24,6 @@ Goodbye!
 
 ## Author
 Hanan Abdulkarim
+
+## Zulaikha Y
+added step 5

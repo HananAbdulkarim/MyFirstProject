@@ -9,7 +9,7 @@ This program allowing person to withdraw money form his\her account and check if
 4. check that your balance is enough.
 
 ## Example Output
-Enter starting balance 
+Enter starting balance
 300
 Enter the amount you want to withdraw(P.S: enter 0 to exit)
 50
